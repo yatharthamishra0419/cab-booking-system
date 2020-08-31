@@ -2,6 +2,7 @@ package sample.cablld.models.driver;
 
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class DriverKeeper {
@@ -18,6 +19,6 @@ public class DriverKeeper {
     }
 
     public static Driver find(String email){
-        return driverList.stream().filter(driver -> driver.getEmail().equals(email)).collect(Collectors.toList()).get(0);
+        return driverList.stream().filter(driver -> driver.getEmail().equals(email)).findFirst().get();
     }
 }

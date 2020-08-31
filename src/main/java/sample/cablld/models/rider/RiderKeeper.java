@@ -10,4 +10,8 @@ public class RiderKeeper {
     public static void addRider(Rider rider){
         riders.add(rider);
     }
+
+    public static Rider find(String email){
+        return riders.stream().filter(rider -> rider.getEmail().equals(email)).findFirst().get();
+    }
 }
