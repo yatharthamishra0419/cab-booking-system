@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afe0da53-4034-4905-8a01-86a0f663b5b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/DriverKeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/DriverKeeper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/rider/RiderKeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/rider/RiderKeeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,22 +125,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="461" y="0" width="668" height="855" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1598807661688" />
-    <state width="1550" height="291" key="GridCell.Tab.0.bottom" timestamp="1598854599341">
+    <state width="1550" height="254" key="GridCell.Tab.0.bottom" timestamp="1598855000744">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="291" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598854599341" />
-    <state width="1550" height="291" key="GridCell.Tab.0.center" timestamp="1598854599341">
+    <state width="1550" height="254" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598855000744" />
+    <state width="1550" height="254" key="GridCell.Tab.0.center" timestamp="1598855000744">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="291" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598854599341" />
-    <state width="1550" height="291" key="GridCell.Tab.0.left" timestamp="1598854599340">
+    <state width="1550" height="254" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598855000744" />
+    <state width="1550" height="254" key="GridCell.Tab.0.left" timestamp="1598855000743">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="291" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598854599340" />
-    <state width="1550" height="291" key="GridCell.Tab.0.right" timestamp="1598854599341">
+    <state width="1550" height="254" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598855000743" />
+    <state width="1550" height="254" key="GridCell.Tab.0.right" timestamp="1598855000744">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="291" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598854599341" />
+    <state width="1550" height="254" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598855000744" />
     <state x="155" y="0" width="1280" height="855" key="SettingsEditor" timestamp="1598784507726">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -162,7 +159,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java</url>
-          <line>45</line>
+          <line>46</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

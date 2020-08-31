@@ -11,6 +11,7 @@ import sample.cablld.models.Booking.Booking;
 import sample.cablld.models.Location;
 import sample.cablld.models.driver.DriverKeeper;
 import sample.cablld.models.rider.RiderKeeper;
+import sample.cablld.models.trips.Trip;
 import sample.cablld.services.GridService;
 import sample.cablld.services.booking.BookingService;
 import sample.cablld.services.driverjourney.DriverJourney;
@@ -57,7 +58,15 @@ public class TripsTest {
     }
 
     @Test
-    public void isStillInContext(){
-
+    public void testTrip() throws InterruptedException {
+        Location driverLocation=new Location(1.0,1.0,gridService.getGrid(1.0,1.0));
+        driverRegisterService.register("yathartha","yatharthamishra0419@gmail.com","8447666213",driverLocation);
+        riderRegisterService.register("yathartha","anshu@abc.com","8447662134");
+        Location riderStartLocation=new Location(1.0,2.0,gridService.getGrid(1.0,1.0));
+        Location riderEndLocation=new Location(2.0,3.0,gridService.getGrid(1.0,1.0));
+        Booking booking = bookingService.book(RiderKeeper.find("anshu@abc.com"), riderStartLocation, riderEndLocation);
+        Trip trip = tripService.startTrip(booking, riderStartLocation);
+        Thread.sleep(1000);
+        tripService.endTrip(trip);
     }
 }
