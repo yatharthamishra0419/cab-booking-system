@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afe0da53-4034-4905-8a01-86a0f663b5b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gnvirgyy08JErRpVpb1IrG0T0G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sample.cablld.models.Booking" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TripsTest.testDriverRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cab-booking-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.cablld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sample.cablld" />
+      <option name="MAIN_CLASS_NAME" value="sample.cablld.TripsTest" />
+      <option name="METHOD_NAME" value="testDriverRegister" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TripsTest.testDriverRegister" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe0da53-4034-4905-8a01-86a0f663b5b0" name="Default Changelist" comment="" />
+      <created>1598763300132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598763300132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="220" width="632" height="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598782484201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="479" y="220" width="632" height="413" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1598782484201" />
+    <state x="564" y="42" width="462" height="768" key="#com.intellij.ide.util.MemberChooser" timestamp="1598810176355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="564" y="42" width="462" height="768" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1598810176355" />
+    <state x="461" y="0" width="668" height="855" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598807661688">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="461" y="0" width="668" height="855" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1598807661688" />
+    <state width="1550" height="435" key="GridCell.Tab.0.bottom" timestamp="1598853023374">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="435" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598853023374" />
+    <state width="1550" height="435" key="GridCell.Tab.0.center" timestamp="1598853023373">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="435" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598853023373" />
+    <state width="1550" height="435" key="GridCell.Tab.0.left" timestamp="1598853023372">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="435" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598853023372" />
+    <state width="1550" height="435" key="GridCell.Tab.0.right" timestamp="1598853023373">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="435" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598853023373" />
+    <state x="155" y="0" width="1280" height="855" key="SettingsEditor" timestamp="1598784507726">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="155" y="0" width="1280" height="855" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1598784507726" />
+    <state x="380" y="189" key="run.anything.popup" timestamp="1598775839418">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="189" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1598775839418" />
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1598809743070">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1598809743070" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
