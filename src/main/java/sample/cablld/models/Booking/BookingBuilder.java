@@ -16,6 +16,7 @@ public class BookingBuilder {
         booking.setRiderLocation(startLocation);
         booking.setDestinationLocation(endLocation);
         booking.setBookingStatus(BookingStatus.BOOKED);
+        booking.setRider(rider);
         return booking;
     }
 }

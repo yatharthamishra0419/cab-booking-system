@@ -1,7 +1,6 @@
 package sample.cablld.services.riderjourney;
 
 import sample.cablld.models.Location;
-import sample.cablld.models.driver.Driver;
 import sample.cablld.models.rider.Rider;
 
 public interface IRiderEngine {

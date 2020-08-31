@@ -15,11 +15,14 @@ public class DriverJourney extends DriverEngine {
         if(!location.getGrid().equals(driver.getDriverAvailabilty().getLastLocationTracked().getGrid())){
             DriverGridContainer.changeDriverGrid(driver,location.getGrid());
         }
+        driver.getDriverAvailabilty().setLastLocationTracked(location);
+        System.out.println("driver location changed !!");
     }
 
 
     public void onTripStart(Driver driver) {
         driver.getDriverAvailabilty().setDriverStatus(DriverStatus.IN_TRIP);
+
     }
 
     public void onTripEnd(Driver driver) {

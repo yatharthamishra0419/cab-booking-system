@@ -1,7 +1,6 @@
 package sample.cablld.services.registrations;
 
 import org.springframework.stereotype.Service;
-import sample.cablld.models.Location;
 import sample.cablld.models.rider.Rider;
 import sample.cablld.models.rider.RiderKeeper;
 

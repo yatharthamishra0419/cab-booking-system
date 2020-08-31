@@ -42,4 +42,6 @@ public class DriverAvailabilty {
     public void setLastLocationTracked(Location lastLocationTracked) {
         this.lastLocationTracked = lastLocationTracked;
     }
+
+
 }

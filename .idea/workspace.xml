@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afe0da53-4034-4905-8a01-86a0f663b5b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/services/LocationChangeEventTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Booking/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Booking/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Booking/BookingBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Booking/BookingBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Booking/BookingKeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Booking/BookingKeeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/DriverAvailabilty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/DriverAvailabilty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/DriverKeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/driver/DriverKeeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/rider/Rider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/rider/Rider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/trips/Trip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/trips/Trip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/models/trips/Tripkeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/models/trips/Tripkeeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/services/driverjourney/DriverJourney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/services/driverjourney/DriverJourney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/services/journey/Journey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/services/journey/Journey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/cablld/services/location/NearByDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/cablld/services/location/NearByDriverFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/Booking/Booking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/Booking/Booking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/Booking/BookingBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/Booking/BookingBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/Grid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/driver/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/driver/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/rider/Rider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/rider/Rider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/trips/Trip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/trips/Trip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/models/trips/Tripkeeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/models/trips/Tripkeeper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/services/driverjourney/DriverJourney.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/services/driverjourney/DriverJourney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/services/journey/Journey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/services/journey/Journey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/cablld/services/location/NearByDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/cablld/services/location/NearByDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/sample/cablld/TripsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sample/cablld/TripsTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +67,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../original-applications/profile-services-new" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,7 +77,7 @@
       <recent name="sample.cablld.models.Booking" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TripsTest">
+  <component name="RunManager" selected="JUnit.TripsTest.testTrip">
     <configuration name="TripsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Cab-booking-system" />
       <extension name="coverage">
@@ -80,8 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TripsTest.testTrip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cab-booking-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.cablld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sample.cablld" />
+      <option name="MAIN_CLASS_NAME" value="sample.cablld.TripsTest" />
+      <option name="METHOD_NAME" value="testTrip" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TripsTest.testTrip" />
         <item itemvalue="JUnit.TripsTest" />
         <item itemvalue="JUnit.TripsTest.testDriverRegister" />
       </list>
@@ -117,50 +163,133 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="479" y="220" width="632" height="413" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1598782484201" />
-    <state x="564" y="42" width="462" height="768" key="#com.intellij.ide.util.MemberChooser" timestamp="1598810176355">
+    <state x="564" y="42" width="637" height="768" key="#com.intellij.ide.util.MemberChooser" timestamp="1598895476349">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="564" y="42" width="462" height="768" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1598810176355" />
+    <state x="564" y="42" width="637" height="768" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1598895476349" />
     <state x="461" y="0" width="668" height="855" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598807661688">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="461" y="0" width="668" height="855" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1598807661688" />
-    <state width="1550" height="254" key="GridCell.Tab.0.bottom" timestamp="1598855000744">
+    <state x="832" y="144" key="#xdebugger.evaluate" timestamp="1598892778298">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="254" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598855000744" />
-    <state width="1550" height="254" key="GridCell.Tab.0.center" timestamp="1598855000744">
+    <state x="832" y="144" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1598892778298" />
+    <state width="495" height="551" key="DebuggerActiveHint" timestamp="1598892823500">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="254" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598855000744" />
-    <state width="1550" height="254" key="GridCell.Tab.0.left" timestamp="1598855000743">
+    <state width="495" height="551" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1598892823500" />
+    <state x="533" y="132" width="524" height="589" key="FileChooserDialogImpl" timestamp="1598868938501">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="254" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598855000743" />
-    <state width="1550" height="254" key="GridCell.Tab.0.right" timestamp="1598855000744">
+    <state x="533" y="132" width="524" height="589" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598868938501" />
+    <state width="1550" height="351" key="GridCell.Tab.0.bottom" timestamp="1598895904835">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1550" height="254" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598855000744" />
+    <state width="1550" height="351" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598895904835" />
+    <state width="1550" height="351" key="GridCell.Tab.0.center" timestamp="1598895904833">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598895904833" />
+    <state width="1550" height="351" key="GridCell.Tab.0.left" timestamp="1598895904832">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598895904832" />
+    <state width="1550" height="351" key="GridCell.Tab.0.right" timestamp="1598895904834">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598895904834" />
+    <state width="1550" height="351" key="GridCell.Tab.1.bottom" timestamp="1598895905018">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598895905018" />
+    <state width="1550" height="351" key="GridCell.Tab.1.center" timestamp="1598895905017">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1598895905017" />
+    <state width="1550" height="351" key="GridCell.Tab.1.left" timestamp="1598895905016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1598895905016" />
+    <state width="1550" height="351" key="GridCell.Tab.1.right" timestamp="1598895905017">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1550" height="351" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1598895905017" />
     <state x="155" y="0" width="1280" height="855" key="SettingsEditor" timestamp="1598784507726">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="155" y="0" width="1280" height="855" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1598784507726" />
-    <state x="380" y="189" key="run.anything.popup" timestamp="1598775839418">
+    <state x="380" y="189" key="run.anything.popup" timestamp="1598893538355">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="380" y="189" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1598775839418" />
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1598809743070">
+    <state x="380" y="189" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1598893538355" />
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1598893580425">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1598809743070" />
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1598893580425" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/sample/cablld/TripsTest.java</url>
-          <line>46</line>
+          <line>55</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/location/NearByDriverFactory.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/riderjourney/RiderEngine.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/riderjourney/RiderEngine.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/QueueChangesListner.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/QueueChangesListner.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/driverjourney/DriverJourney.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/driverjourney/DriverJourney.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/ApplicationBootStrap.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/LocationChangeEventTask.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/LocationChangeEventTask.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/cablld/services/LocationChangeEventTask.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

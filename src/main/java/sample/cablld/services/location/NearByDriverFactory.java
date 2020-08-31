@@ -1,7 +1,6 @@
 package sample.cablld.services.location;
 
 import sample.cablld.constants.IConstants;
-import sample.cablld.models.Location;
 import sample.cablld.models.driver.DriverGridContainer;
 import sample.cablld.models.driver.DriverStatus;
 
@@ -20,7 +19,7 @@ public class NearByDriverFactory {
                                      (Math.sqrt(Math.pow(driver.getDriverAvailabilty().getLastLocationTracked().getY()-
                                                      location.getY(),2)+
                                              Math.pow(driver.getDriverAvailabilty().getLastLocationTracked().getX()-
-                                                     location.getX(),2))> IConstants.ApplicationConstants.MAX_DISTANCE_DRIVER)
+                                                     location.getX(),2))< IConstants.ApplicationConstants.MAX_DISTANCE_DRIVER)
 
 
                              ).collect(Collectors.toList())

@@ -80,4 +80,18 @@ public class Booking {
     public void setBookingStatus(BookingStatus bookingStatus) {
         this.bookingStatus = bookingStatus;
     }
+
+    @Override
+    public String toString() {
+        return "Booking{" +
+                "driver=" + driver +
+                ", rider=" + rider +
+                ", bookingTime=" + bookingTime +
+                ", bookingAlgorithm=" + bookingAlgorithm +
+                ", riderLocation=" + riderLocation +
+                ", driverLocation=" + driverLocation +
+                ", destinationLocation=" + destinationLocation +
+                ", bookingStatus=" + bookingStatus +
+                '}';
+    }
 }

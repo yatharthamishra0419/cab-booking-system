@@ -66,4 +66,15 @@ public class Rider {
     public int hashCode() {
         return Objects.hash(email);
     }
+
+    @Override
+    public String toString() {
+        return "Rider{" +
+                "name='" + name + '\'' +
+                ", email='" + email + '\'' +
+                ", mobileNumber='" + mobileNumber + '\'' +
+                ", totalNumberOfRides=" + totalNumberOfRides +
+                ", riderState=" + riderState +
+                '}';
+    }
 }

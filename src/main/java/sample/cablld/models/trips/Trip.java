@@ -2,8 +2,6 @@ package sample.cablld.models.trips;
 
 import sample.cablld.models.Booking.Booking;
 import sample.cablld.models.Location;
-import sample.cablld.models.driver.Driver;
-import sample.cablld.models.rider.Rider;
 
 import java.sql.Timestamp;
 
@@ -52,5 +50,16 @@ public class Trip {
 
     public void setBooking(Booking booking) {
         this.booking = booking;
+    }
+
+    @Override
+    public String toString() {
+        return "Trip{" +
+                "startLocation=" + startLocation +
+                ", endLocation=" + endLocation +
+                ", tripStartTime=" + tripStartTime +
+                ", tripEndTime=" + tripEndTime +
+                ", booking=" + booking +
+                '}';
     }
 }

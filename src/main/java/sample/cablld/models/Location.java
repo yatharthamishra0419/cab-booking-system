@@ -38,4 +38,13 @@ public class Location {
     public void setGrid(Grid grid) {
         this.grid = grid;
     }
+
+    @Override
+    public String toString() {
+        return "Location{" +
+                "x=" + x +
+                ", y=" + y +
+                ", grid=" + grid +
+                '}';
+    }
 }
